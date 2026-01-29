@@ -1,0 +1,113 @@
+Full job description Job Description
+
+Proficiency in backend systems using Python (Django/Flask). Proficiency in cloud infrastructure: AWS (EC2, Lambda) Azure Knowledge of containerization (Kubernetes) Experience in any of the following is an advantage: RabbitMQ Celery ElasticSearch Terraform CircleCI Linux Administration
+
+Responsibilities
+
+Lead the migration of legacy monoliths to microservices Write unit and integration tests to ensure 99.9% uptime Collaborate with Mobile Developers for API integration Maintain internal documentation and runbooks Participate in on-call rotation Collaborate with product owners to define sprint goals Mentor junior developers Working Hours: 9:00 AM - 5:00 PM UTC+00:00 or 1:00 PM - 9:00 PM UTC+02:00
+
+Pay: €55,000.00-€65,000.00 per year
+
+==================================================
+
+Full job description Novosynth is an emerging leader in the agri-tech space, providing automated drone surveillance for crop yield optimization. Founded in 2018, Novosynth operates out of Galway and Cork, exporting data solutions to markets in France, Germany, and the UK. Our clients range from independent organic farms to large-scale agricultural conglomerates.
+
+Novosynth is recruiting for the role of Senior Frontend Engineer to overhaul our client dashboard. You will be responsible for translating complex geospatial data into user-friendly interfaces. This is a pivotal role as we transition our platform to a SaaS model.
+
+You will work alongside the CTO and the Data Science team. Your ability to visualize data and optimize rendering performance is critical.
+
+Our frontend is built with Vue.js, so strong experience with component lifecycles and state management (Pinia/Vuex) is essential.
+
+Main Responsibilities:
+
+Develop new dashboard features: mapping tools, data export, and user management Refactor existing legacy jQuery code into modern Vue 3 components Collaborate with backend teams to define JSON schemas Ensure cross-browser compatibility
+
+The successful candidate will:
+
+Have good experience with JavaScript (ES6+) and HTML5. 4+ years’ experience. Deep understanding of CSS Grid and Flexbox Experience with WebGL or mapping libraries (Leaflet, Mapbox) Familiarity with CI/CD pipelines Ability to work independently in a remote-first culture. Have valid work authorization for Ireland/EU.
+
+This is a hybrid role with monthly visits to our office in Salthill, Co. Galway.
+
+At Novosynth we are an equal opportunity employer.
+
+Job Types: Full-time, Permanent
+
+Pay: €60,000.00-€75,000.00 per year
+
+Benefits:
+
+Bike to work scheme Private Health Insurance Pension matching Flexible working hours
+
+Application question(s):
+
+Are you currently located in the Republic of Ireland? Do you have experience with geospatial data visualization?
+
+Experience:
+
+Frontend Development: 4 years (required) Vue.js: 2 years (preferred)
+
+Work Location: Hybrid
+
+==================================================
+
+Full job description Applying for Job ID: #DEV-992. Please ensure CV is PDF format.
+
+Job Code: #ZX88
+
+Type: contract
+
+Responsibilities: Obsession with low-latency coding Commitment to writing self-documenting code Ability to communicate technical concepts to non-technical stakeholders Willingness to work weekends if deployment requires it
+
+Skills:Master's Degree in Engineering or Mathematics preferred Strong grasp of OOP principles Proficiency in the following skills is mandatory: C#, .NET Core, Blazor Microsoft SQL Server Entity Framework Azure DevOps Proficiency in the following technologies is desired: SignalR PowerBI
+
+Experience:5 - 8 Years
+
+Opening: 1
+
+==================================================
+
+Full job description StreamLine Logistics is creating a next-gen fleet management tool. We are looking for a Full Stack Developer to help us build out our mobile companion app and the administrative web portal.
+
+We're seeking a developer fluent in React Native and Node.js. You will be replacing a legacy Cordova application. The ideal candidate has published at least one app to the App Store or Google Play Store.
+
+About you
+
+You have experience building offline-first mobile applications. You are comfortable with SQL and NoSQL databases. Fluency in TypeScript is mandatory. You are comfortable with ambiguous requirements and rapid iteration.
+
+The candidate should expect to be dedicated full-time to this project for 12 months.
+
+StreamLine is a remote team, but we require a 4-hour overlap with GMT.
+
+To apply for this project, please share...
+
+Your daily rate and availability Links to apps you have deployed GitHub profile link
+
+Agencies need not apply. Direct contractors only.
+
+==================================================
+
+Full job description Company Description
+
+We are a fintech startup based in the heart of Dublin 2 ("Silicon Docks"). We process payments for over 10,000 merchants across Europe.
+
+Job Description
+
+We're looking for a DevOps Engineer to join our Platform team. This team is responsible for the reliability, scalability, and security of our payment infrastructure.
+
+Day to day work will look like:
+
+Building Infrastructure as Code (IaC) using Terraform Managing Kubernetes clusters on AWS (EKS) Improving our monitoring and alerting systems (Prometheus, Grafana) Automating security compliance checks Responding to incidents and performing root cause analysis
+
+Qualifications
+
+What are we looking for?
+
+Experience with public cloud providers (AWS preferred, GCP/Azure accepted) Strong scripting skills (Bash, Python, or Go) Experience with CI/CD tools (Jenkins, GitLab CI, or GitHub Actions) Understanding of networking fundamentals (DNS, TCP/IP, VPCs)
+
+Additional Information
+
+BENEFITS
+
+Competitive salary + Stock Options Full VHI Health Coverage Taxsaver commuter tickets (Luas/Bus/Rail) Gym membership subsidy New MacBook Pro M3 Weekly team lunches Great office location near Grand Canal Dock with secure bike storage and showers
+
+==================================================

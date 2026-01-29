@@ -1,0 +1,22 @@
+# --- Secrets & Config ---
+.env
+config.py
+api_keys.py
+
+# --- Data Output ) ---
+*.csv
+*.txt
+*.json
+*.xlsx
+# Exception: 
+!data/raw/testData.txt
+
+# --- Python System Files ---
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+
+# --- Mac OS System Files ---
+.DS_Store
