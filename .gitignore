@@ -9,7 +9,7 @@ api_keys.py
 *.json
 *.xlsx
 # Exception: 
-!data/raw/testData.txt
+!data/raw/testData.jsonl
 
 # --- Python System Files ---
 __pycache__/

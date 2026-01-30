@@ -3,9 +3,9 @@ from typing import List, Literal, Optional
 from instructor import Maybe
 
 class JobAnalysisSimple(BaseModel):
-    title: str
-    company: str
-    languages: List[str]
+    extracted_title: str
+    extracted_company: str
+    languages: List[str] = Field(description="e.g. React, Javascript. Languages of the same type can be saved as their most common name, ie reactjs, react.js can both be saved as just react")
     frameworks: List[str]
     tools: List[str] = Field(description="e.g. Docker, Kubernetes, Git, Jira")
     cloud_platforms: List[str]
